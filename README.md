@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# User Instruction
+## User Instruction
 
 1. Load a dataset by dragging a CSV file into the dropzone
 2. Click "Generate Analysis Questions"
